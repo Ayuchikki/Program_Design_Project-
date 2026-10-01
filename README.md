@@ -194,6 +194,3 @@ The current build covers the core dispatch loop. Features from the original PRD 
 
 Issues and pull requests are welcome. For larger changes, please open an issue first to discuss what you'd like to change.
 
-## License
-
-Add a license of your choice (for example, [MIT](https://choosealicense.com/licenses/mit/)).
