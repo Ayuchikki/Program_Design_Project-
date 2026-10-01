@@ -1,4 +1,4 @@
-911 Emergency Dispatch System
+# 911 Emergency Dispatch System
 
 A command-line application that simulates a 911 dispatch center. A dispatcher logs an emergency, the system automatically assigns lead officers from the matching departments, an interactive radio feed simulates unit communication, and completed incidents are tracked in a case history. A built-in police records database supports quick background lookups.
 
